@@ -1,0 +1,26 @@
+C:\Users\jerem\AppData\Local\Temporary Projects\Tomogachi Cookie Clicker Hybrid Program\bin\Debug\Tomogachi Cookie Clicker Hybrid Program.exe.config
+C:\Users\jerem\AppData\Local\Temporary Projects\Tomogachi Cookie Clicker Hybrid Program\bin\Debug\Tomogachi Cookie Clicker Hybrid Program.exe
+C:\Users\jerem\AppData\Local\Temporary Projects\Tomogachi Cookie Clicker Hybrid Program\bin\Debug\Tomogachi Cookie Clicker Hybrid Program.pdb
+C:\Users\jerem\AppData\Local\Temporary Projects\Tomogachi Cookie Clicker Hybrid Program\bin\Debug\Tomogachi Cookie Clicker Hybrid Program.xml
+C:\Users\jerem\AppData\Local\Temporary Projects\Tomogachi Cookie Clicker Hybrid Program\obj\Debug\Tomogachi Cookie Clicker Hybrid Program.vbprojAssemblyReference.cache
+C:\Users\jerem\AppData\Local\Temporary Projects\Tomogachi Cookie Clicker Hybrid Program\obj\Debug\Tomogachi_Cookie_Clicker_Hybrid_Program.Form1.resources
+C:\Users\jerem\AppData\Local\Temporary Projects\Tomogachi Cookie Clicker Hybrid Program\obj\Debug\Tomogachi_Cookie_Clicker_Hybrid_Program.Resources.resources
+C:\Users\jerem\AppData\Local\Temporary Projects\Tomogachi Cookie Clicker Hybrid Program\obj\Debug\Tomogachi Cookie Clicker Hybrid Program.vbproj.GenerateResource.cache
+C:\Users\jerem\AppData\Local\Temporary Projects\Tomogachi Cookie Clicker Hybrid Program\obj\Debug\Tomogachi Cookie Clicker Hybrid Program.vbproj.CoreCompileInputs.cache
+C:\Users\jerem\AppData\Local\Temporary Projects\Tomogachi Cookie Clicker Hybrid Program\obj\Debug\Tomogachi Cookie Clicker Hybrid Program.exe
+C:\Users\jerem\AppData\Local\Temporary Projects\Tomogachi Cookie Clicker Hybrid Program\obj\Debug\Tomogachi Cookie Clicker Hybrid Program.xml
+C:\Users\jerem\AppData\Local\Temporary Projects\Tomogachi Cookie Clicker Hybrid Program\obj\Debug\Tomogachi Cookie Clicker Hybrid Program.pdb
+C:\Users\jerem\OneDrive\Desktop\Other\School Computer Project\Tomogachi Cookie Clicker Hybrid Program\Tomogachi Cookie Clicker Hybrid Program\bin\Debug\Tomogachi Cookie Clicker Hybrid Program.exe.config
+C:\Users\jerem\OneDrive\Desktop\Other\School Computer Project\Tomogachi Cookie Clicker Hybrid Program\Tomogachi Cookie Clicker Hybrid Program\bin\Debug\Tomogachi Cookie Clicker Hybrid Program.exe
+C:\Users\jerem\OneDrive\Desktop\Other\School Computer Project\Tomogachi Cookie Clicker Hybrid Program\Tomogachi Cookie Clicker Hybrid Program\bin\Debug\Tomogachi Cookie Clicker Hybrid Program.pdb
+C:\Users\jerem\OneDrive\Desktop\Other\School Computer Project\Tomogachi Cookie Clicker Hybrid Program\Tomogachi Cookie Clicker Hybrid Program\bin\Debug\Tomogachi Cookie Clicker Hybrid Program.xml
+C:\Users\jerem\OneDrive\Desktop\Other\School Computer Project\Tomogachi Cookie Clicker Hybrid Program\Tomogachi Cookie Clicker Hybrid Program\obj\Debug\Tomogachi Cookie Clicker Hybrid Program.vbprojAssemblyReference.cache
+C:\Users\jerem\OneDrive\Desktop\Other\School Computer Project\Tomogachi Cookie Clicker Hybrid Program\Tomogachi Cookie Clicker Hybrid Program\obj\Debug\Tomogachi_Cookie_Clicker_Hybrid_Program.Form1.resources
+C:\Users\jerem\OneDrive\Desktop\Other\School Computer Project\Tomogachi Cookie Clicker Hybrid Program\Tomogachi Cookie Clicker Hybrid Program\obj\Debug\Tomogachi_Cookie_Clicker_Hybrid_Program.Resources.resources
+C:\Users\jerem\OneDrive\Desktop\Other\School Computer Project\Tomogachi Cookie Clicker Hybrid Program\Tomogachi Cookie Clicker Hybrid Program\obj\Debug\Tomogachi Cookie Clicker Hybrid Program.vbproj.GenerateResource.cache
+C:\Users\jerem\OneDrive\Desktop\Other\School Computer Project\Tomogachi Cookie Clicker Hybrid Program\Tomogachi Cookie Clicker Hybrid Program\obj\Debug\Tomogachi Cookie Clicker Hybrid Program.vbproj.CoreCompileInputs.cache
+C:\Users\jerem\OneDrive\Desktop\Other\School Computer Project\Tomogachi Cookie Clicker Hybrid Program\Tomogachi Cookie Clicker Hybrid Program\obj\Debug\Tomogachi Cookie Clicker Hybrid Program.exe
+C:\Users\jerem\OneDrive\Desktop\Other\School Computer Project\Tomogachi Cookie Clicker Hybrid Program\Tomogachi Cookie Clicker Hybrid Program\obj\Debug\Tomogachi Cookie Clicker Hybrid Program.xml
+C:\Users\jerem\OneDrive\Desktop\Other\School Computer Project\Tomogachi Cookie Clicker Hybrid Program\Tomogachi Cookie Clicker Hybrid Program\obj\Debug\Tomogachi Cookie Clicker Hybrid Program.pdb
+C:\Users\jerem\OneDrive\Desktop\Other\School Computer Project\Tomogachi Cookie Clicker Hybrid Program\Tomogachi Cookie Clicker Hybrid Program\obj\Debug\Tomogachi_Cookie_Clicker_Hybrid_Program.Form2.resources
+C:\Users\jerem\OneDrive\Desktop\Other\School Computer Project\Tomogachi Cookie Clicker Hybrid Program\Tomogachi Cookie Clicker Hybrid Program\obj\Debug\Tomogachi_Cookie_Clicker_Hybrid_Program.Form3.resources
